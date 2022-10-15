@@ -24,7 +24,7 @@ div#header-container {
 div#header {
 	width: 100vw;
 	height: 70px;
-	background: #24292e;
+	background: #0c1a6a;
 	z-index: 1;
 	position: fixed;
 	display:inline-block;
@@ -50,7 +50,7 @@ div#header-text-container {
 	height: 40px;
 	display:inline-block;
 	color: white;
-	font-size: 28px;
+	font-size: 24px;
 	margin: 5px;
 	vertical-align: middle;
 	padding-top: 8px;
@@ -109,7 +109,7 @@ div#layout-content{
 	padding-left: 35px;
 	padding-right: 35px;
 	min-width: 200px;
-	max-width: 850px;
+	max-width: 900px;
 	margin: auto;
 }
 
@@ -546,8 +546,8 @@ div#layout-menu-container .closebtn:hover {
 }
 
 
-/* Width to collapse sidebar */
-@media screen and (max-width: 1200px) {
+/* Width to collapse sidebar (ori: 1200)*/
+@media screen and (max-width: 120px) {
 	div#header-text-container {
 		visibility: hidden;
 		width: 0;
