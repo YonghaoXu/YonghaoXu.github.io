@@ -10832,7 +10832,7 @@ html {
 }
 
 .page-section {
-  padding: 6rem 0;
+  padding: 4rem 0;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
@@ -10840,7 +10840,7 @@ html {
 }
 @media (min-width: 992px) {
   .page-section .page-section-heading {
-    font-size: 3rem;
+    font-size: 2.25rem;
     line-height: 2.5rem;
   }
 }
@@ -10908,13 +10908,13 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #152EB7;
+  color: #102492;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #152EB7;
+  color: #102492;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10936,11 +10936,11 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #152EB7;
+    background: #102492;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #152EB7;
+    background: #102492;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
